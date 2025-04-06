@@ -2,7 +2,7 @@
 <p align="center">
 </p>
 <h1 align="center">Welcome everyone!!👋, I am Jaiharishan .
-  <h3 align="center">Upcoming MSCS @ University of Florida | Bachelors @ NIT Trichy </h3>
+  <h3 align="center">MSCS @ University of Florida | Bachelors @ NIT Trichy </h3>
 
 [![Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/Jaiharishan) [![Profile](https://visitor-badge.glitch.me/badge?page_id=Jaiharishan.profileviews-badge)](https://github.com/Jaiharishan) [![followers](https://img.shields.io/github/followers/Jaiharishan?style=social)](https://github.com/Jaiharishan?tab=followers) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Jaiharishan)[![Repos Badge](https://badges.pufler.dev/repos/Jaiharishan)](https://github.com/Jaiharishan?tab=repositories) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/jaiharishan) 
 <br>
